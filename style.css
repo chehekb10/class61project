@@ -93,3 +93,15 @@ p {
 
 
 }
+
+a {
+    text-decoration: underline;
+    font-family: fantasy;
+
+}
+
+a {
+    text-decoration: underline;
+    text-shadow: 1px 1px purple;
+
+}
